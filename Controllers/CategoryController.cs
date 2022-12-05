@@ -8,7 +8,6 @@ namespace MadRiverWeb.Controllers
 {
     public class CategoryController : Controller
     {
-        // GET: /<controller>/
         public IActionResult Index()
         {
             return View();
