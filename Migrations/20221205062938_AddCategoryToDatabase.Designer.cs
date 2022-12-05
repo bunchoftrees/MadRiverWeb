@@ -12,7 +12,7 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace MadRiverWeb.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20221204191523_AddCategoryToDatabase")]
+    [Migration("20221205062938_AddCategoryToDatabase")]
     partial class AddCategoryToDatabase
     {
         /// <inheritdoc />
